@@ -57,7 +57,7 @@ export const AppBar: FC = (props) => {
             <Link href="/metadata">
               <a className="mr-8 mt-2 w-[10rem]">TOKEN METADATA</a>
             </Link>
-            <WalletMultiButton class="btn btn-ghost mr-8  w-[10rem]" />
+            <WalletMultiButton className="btn btn-ghost mr-8  w-[10rem]" />
           </div>
         </div>
       </div>
